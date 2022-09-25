@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.7694fa28.css",
-    "main.js": "/my-app/static/js/main.0815841b.js",
+    "main.css": "/my-app/static/css/main.c584bc25.css",
+    "main.js": "/my-app/static/js/main.cf4f5212.js",
+    "static/media/intro-bg.jpg": "/my-app/static/media/intro-bg.2d99901b19d92a3639f4.jpg",
     "static/media/project2.png": "/my-app/static/media/project2.ce59fe1c823ec29f4dd0.png",
     "static/media/project1.png": "/my-app/static/media/project1.ede25cae0a2ed3bc3412.png",
+    "static/media/bg2.jpg": "/my-app/static/media/bg2.440f6812f2b3bb9bfc92.jpg",
     "static/media/project3.png": "/my-app/static/media/project3.aefd7089f8fa104e3967.png",
-    "static/media/intro-bg.jpg": "/my-app/static/media/intro-bg.cf2364827d8b8a98642e.jpg",
     "static/media/react1.jpg": "/my-app/static/media/react1.d63ca3791694cd8f6f49.jpg",
     "static/media/react2.webp": "/my-app/static/media/react2.8aa659a4278a7132e6f4.webp",
     "index.html": "/my-app/index.html",
-    "main.7694fa28.css.map": "/my-app/static/css/main.7694fa28.css.map",
-    "main.0815841b.js.map": "/my-app/static/js/main.0815841b.js.map"
+    "main.c584bc25.css.map": "/my-app/static/css/main.c584bc25.css.map",
+    "main.cf4f5212.js.map": "/my-app/static/js/main.cf4f5212.js.map"
   },
   "entrypoints": [
-    "static/css/main.7694fa28.css",
-    "static/js/main.0815841b.js"
+    "static/css/main.c584bc25.css",
+    "static/js/main.cf4f5212.js"
   ]
 }
