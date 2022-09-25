@@ -5,21 +5,21 @@ import pro3 from "../assets/project3.png"
 const ProjectCardData = [
     {
         imgsrc: pro1,
-        title: "My",
-        text: "MyMYMY",
-        view: "https://www.youtube.com/watch?v=0h2b4ftbZcU"
+        title: "더미1",
+        text: "작성필요",
+        view: ""
     }, 
     {
         imgsrc: pro2,
-        title: "My2",
-        text: "MyMYMY2",
-        view: "https://www.youtube.com/watch?v=0h2b4ftbZcU"
+        title: "더미2",
+        text: "작성필요",
+        view: ""
     },
     {
         imgsrc: pro3,
-        title: "My3",
-        text: "MyMYMY3",
-        view: "https://www.youtube.com/watch?v=0h2b4ftbZcU"
+        title: "더미3",
+        text: "작성필요",
+        view: ""
     }
 ];
 

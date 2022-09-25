@@ -1,5 +1,5 @@
 import "./HeroImg2Styles.css"
-
+import IntroImg2 from "../assets/bg2.jpg"
 import React, {Component} from 'react'
 
 class HeroImg2 extends Component {
